@@ -1,0 +1,37 @@
+[33mcommit 6655bf1a85be52c586162ff1be90fc5acd483ace[m[33m ([m[1;36mHEAD -> [m[1;32mbottom-section[m[33m, [m[1;31morigin/contentContainer[m[33m, [m[1;31morigin/content-container[m[33m, [m[1;32mcontentContainer[m[33m, [m[1;32mcontent-container[m[33m)[m
+Author: BoomBox-8 <shashanknarayanram@gmail.com>
+Date:   Sat Feb 5 21:50:11 2022 +0400
+
+    Fixed the content width
+
+[33mcommit 1950821d51a9c80614a52a27872ef8eef5e8683b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: BoomBox-8 <38163630+BoomBox-8@users.noreply.github.com>
+Date:   Sat Feb 5 21:42:46 2022 +0400
+
+    Both fix (#2)
+    
+    * Both fix
+    
+    * Fixed some issues
+
+[33mcommit 94ec5fbe4485d54f12e87e08cc3caa723a3b3d23[m
+Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+Date:   Sat Feb 5 18:07:55 2022 +0100
+
+    Fix: Header (#3)
+
+[33mcommit d26fa55ec343b26a9dc0c57e7f9b57e959ea4837[m
+Author: BoomBox-8 <38163630+BoomBox-8@users.noreply.github.com>
+Date:   Sat Feb 5 20:43:11 2022 +0400
+
+    Header (#1)
+    
+    * Modified header
+    
+    * Added some header styles
+
+[33mcommit ccd3582e765bdf5230cab19ab1f34eb7693ce333[m
+Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+Date:   Sat Feb 5 13:22:13 2022 +0100
+
+    Initial commit
